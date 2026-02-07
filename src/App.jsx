@@ -1,4 +1,4 @@
-import Valentine from "./Valentine.jsx";
+import Valentine from "./components/Valentine.jsx";
 import "./App.css";
 
 function App() {
