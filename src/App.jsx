@@ -1,10 +1,10 @@
-import Valentine from "./components/Valentine.jsx";
+import ValentineJourney from "./components/ValentineJourney";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <Valentine />
+      <ValentineJourney />
     </>
   );
 }
