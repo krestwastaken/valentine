@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 export default function SuccessMessage() {
   return (
@@ -24,7 +24,8 @@ export default function SuccessMessage() {
         You've made me the happiest person alive!
       </p>
       <p className="italic" style={{ color: "#ec407a" }}>
-        I can't wait to spend this Valentine's Day with you my moon and stars 💕
+        I can't wait to spend this Valentine's Day with you my moon and
+        stars 💕
       </p>
       <div className="mt-8 text-6xl">✨💝✨</div>
       <p className="text-sm mt-8" style={{ color: "#ec407a" }}>
